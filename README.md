@@ -27,7 +27,7 @@ o	High Value
 o	Regular
 o	One-time Buyers
 
-#Insights
+# Insights
 •	Top 10% of customers contribute ~60% of total revenue.
 •	Seasonal spikes in orders (analyze by month/quarter).
 
